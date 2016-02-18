@@ -1,0 +1,2 @@
+# ichiban
+my first repository
